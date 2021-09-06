@@ -1,0 +1,48 @@
+{
+  "name": "hotonot",
+  "version": "0.0.1",
+  "description": "HotONot brand reviews",
+  "main": "index.js",
+  "scripts": {
+    "start": "NODE_ENV=development node index.js",
+    "test": "./node_modules/.bin/mocha test/ --recursive",
+    "lint": "./node_modules/.bin/eslint ."
+  },
+  "keywords": [
+    "MySQL",
+    "bookshelf",
+    "knex",
+    "NodeJS"
+  ],
+  "author": "firebrand@webandthreads.com",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "axios": "^0.21.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "bookshelf": "^1.2.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "https": "^1.0.0",
+    "joi-phone-number": "^5.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "knex": "^0.21.12",
+    "loglevel": "^1.7.1",
+    "moment": "^2.29.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "eslint": "^7.15.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "mocha": "^8.2.1",
+    "nock": "^13.0.5",
+    "sinon": "^9.2.1",
+    "supertest": "^6.0.1"
+  }
+}

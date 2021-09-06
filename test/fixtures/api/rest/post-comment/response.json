@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "createdAt": "2020-01-30T11:26:55.000Z",
+  "updatedAt": "2020-01-30T11:26:55.000Z",
+  "reviewId": 1,
+  "userId": 2,
+  "text": "Do I really have to make a comment here?",
+  "reactions": []
+}

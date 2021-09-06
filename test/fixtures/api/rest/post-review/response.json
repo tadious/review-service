@@ -1,0 +1,23 @@
+{
+  "id": 1,
+  "createdAt": "2020-01-30T11:26:55.000Z",
+  "updatedAt": "2020-01-30T11:26:55.000Z",
+  "userId": 1,
+  "item": "Super Man's Hot Dog",
+  "brand": "Sticky Fingers BBQ",
+  "description": "Amazing sandwich/hott dogg. Perfect blend of meat, cheese and bun!!",
+  "tags": "bbq, food, Cape Town",
+  "rating": 4.6,
+  "media": [{
+    "id": 1,
+    "createdAt": "2020-01-30T11:26:55.000Z",
+    "updatedAt": "2020-01-30T11:26:55.000Z",
+    "type": "IMAGE",
+    "filename": "http://cdn.test.images.net/1-supermanshotdog.jpg",
+    "width": null,
+    "height": null
+  }],
+  "comments": [],
+  "reactions": [],
+  "views": []
+}

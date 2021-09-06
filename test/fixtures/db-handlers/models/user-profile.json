@@ -1,0 +1,17 @@
+{
+  "id": 1,
+  "created_at": "2020-01-30T11:26:55.000Z",
+  "updated_at": "2020-01-30T11:26:55.000Z",
+  "user_id": 1,
+  "mobile_number": "+27 78 124 7654",
+  "username": "foobar1",
+  "name": "Foo Bar",
+  "avatar": "https://picsum.photos/300/300",
+  "avatar_background": "https://picsum.photos/500/800",
+  "birthday": "1989-09-23T00:00:00.000Z",
+  "bio": "Just trying to get by soing all the lazy, crazy eish I needs to do. Wait, I still need more characters up in here.",
+  "gender": null,
+  "interests": null,
+  "email_verified_at": null,
+  "mobile_number_verified_at": null
+}

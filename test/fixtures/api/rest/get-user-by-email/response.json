@@ -1,0 +1,6 @@
+{
+  "id": 1,
+  "email": "foo.bar@advisa.se",
+  "roles": ["ADMIN"],
+  "createdAt": "2018-01-30T11:26:55.000Z"
+}

@@ -1,0 +1,41 @@
+{
+  "development": {
+    "knex": {
+      "client": "mysql",
+      "migrations": {
+        "directory": "./knex/migrations"
+      },
+      "connection": {
+        "database": "hotonot",
+        "host": "localhost",
+        "password": "password123",
+        "port": 3306,
+        "user": "root"
+      }
+    },
+    "webServer": {
+      "port": 1337
+    },
+    "smsPortal": {
+      "url": "https://rest.smsportal.com/v1/bulkmessages",
+      "authToken": "check-with-sobz"
+    },
+    "webToken": {
+      "secret": "superdupersecret",
+      "expiresIn": 7200
+    },
+    "sirv": {
+      "hostname": "api.sirv.com",
+      "clientId": "Hmy2LOVNhnqXlTX8y1wOFRugS4S",
+      "secret": "pyL13hKMTFlcHjTzm+nqXgFkhWws04MjKRwj+Xg/iCM+Eg/nMcDVEsRY7u2hlozKjev8K7L6Ummij/gU09uKZA==",
+      "imageRoot": "https://perompon.sirv.com",
+      "imagePath": "/test"
+    }
+  },
+  "testing": {
+  },
+  "staging": {
+  },
+  "production": {
+  }
+}
